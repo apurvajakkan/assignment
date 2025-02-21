@@ -1,6 +1,6 @@
 Overview
 
-This project processes video inputs to detect and analyze objects, specifically focusing on plastic litter in riverine settings. The system generates two types of outputs:
+This project processes video inputs to detect and analyze objects, specifically focusing on plastic litter in riverine settings. The system generates outputs:
 
 JSON Output File – A structured file containing metadata and detection results.
 
